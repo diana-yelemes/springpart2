@@ -1,0 +1,3 @@
+rootProject.name = 'newsmanagementsystem'
+include 'module-service', 'module-repository', 'module-dto', 'module-main', 'module-controller', 'module-entity'
+
